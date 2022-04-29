@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Alpha_Charts/static/css/main.073c9b0a.css",
+    "main.js": "/Alpha_Charts/static/js/main.653a9cd8.js",
+    "static/js/787.c29eb531.chunk.js": "/Alpha_Charts/static/js/787.c29eb531.chunk.js",
+    "static/media/logo.svg": "/Alpha_Charts/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Alpha_Charts/index.html",
+    "main.073c9b0a.css.map": "/Alpha_Charts/static/css/main.073c9b0a.css.map",
+    "main.653a9cd8.js.map": "/Alpha_Charts/static/js/main.653a9cd8.js.map",
+    "787.c29eb531.chunk.js.map": "/Alpha_Charts/static/js/787.c29eb531.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.653a9cd8.js"
+  ]
+}
